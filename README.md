@@ -1,4 +1,4 @@
-# Dashboard-Excel
+# Excel-Dashboard
 1. Download the Excel data file and load it into Excel, ensuring all necessary sheets (Orders, Customers, Products) are available. Open it for analysis.
 
 2. Use XLOOKUP or INDEXMATCH to bring in customer or product data from other sheets into the Orders sheet.
